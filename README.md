@@ -1,3 +1,8 @@
+
+NVIDIA 1000- 4090 !!!!!!
+
+
+
 Hola buenas soy Afin y he creado este software "Optimizer" para optimizar vuestro ordenador a la perfección, tambien lo podreis descargar en "HITHUB"
 
 
