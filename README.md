@@ -7,7 +7,7 @@ Hola buenas soy Afin y he creado este software "Optimizer" para optimizar vuestr
 
 
 Hos he dejado unos programas para optimizar vuestro ordenador de forma instantanea en tarjetas NVIDIA.
-Teneis un video en youtube por si teneis dudas y os dejho mi DISCORD por si  teneis alguna duda de comop realizar la optimización. ""NOMBRE DC: afinfn  "" o podeis ser atendidos por el soporte en ; https://discord.gg/hrfS75C5ue "
+Teneis un video en youtube por si teneis dudas y os dejo mi DISCORD por si  teneis alguna duda de comop realizar la optimización. ""NOMBRE DC: afinfn  "" o podeis ser atendidos por el soporte en ; https://discord.gg/hrfS75C5ue "
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 TARJETAS DE NVIDIA (SOLO Nvidia) ------------------------
