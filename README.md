@@ -3,7 +3,7 @@ NVIDIA 1000- 4090 !!!!!
 
 
 
-Hola buenas soy Afin y he creado este software "Optimizer" para optimizar vuestro ordenador a la perfección, tambien lo podreis descargar en "HITHUB"
+Hola buenas soy Afin y he creado este software "AfinOptimizer" para optimizar vuestro ordenador a la perfección, tambien lo podreis descargar en "HITHUB"
 
 
 Hos he dejado unos programas para optimizar vuestro ordenador de forma instantanea en tarjetas NVIDIA.
