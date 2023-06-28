@@ -47,7 +47,8 @@ Sirve para reducir la latencia de nuestros perifericos quitando así el imput la
 
 debereis abrir la aplicación como administrador, Opciones - configuraciones - Cortometraje de perfiles en GENERAL a " 1 ", Yaza de sondeo de mando a " 1 ms ", 
 
-aplicais : Iniciar junto a windows - auto cargar el ultimo perfil abierto - asociar Perfiles - Habilitar: Retraso = minimo: 250ms y Taza: 5 tiempo/s
+aplicais : niciar junto a windows - auto cargar el ultimo perfil abierto - asociar Perfiles - Habilitar: Retraso = minimo: 250ms y Taza: 5 tiempo/s
+
 -----
 Ratón: Aplicais en " Descativar la precisión del puntero mejorado - suavizado = 1 - 0,01
 
