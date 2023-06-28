@@ -47,7 +47,7 @@ Sirve para reducir la latencia de nuestros perifericos quitando así el imput la
 
 debereis abrir la aplicación como administrador, Opciones - configuraciones - Cortometraje de perfiles en GENERAL a " 1 ", Yaza de sondeo de mando a " 1 ms ", 
 
-aplicais : niciar junto a windows - auto cargar el ultimo perfil abierto - asociar Perfiles - Habilitar: Retraso = minimo: 250ms y Taza: 5 tiempo/s
+aplicais : iniciar junto a windows - auto cargar el ultimo perfil abierto - asociar Perfiles - Habilitar: Retraso = minimo: 250ms y Taza: 5 tiempo/s
 
 -----
 Ratón: Aplicais en " Descativar la precisión del puntero mejorado - suavizado = 1 - 0,01
@@ -96,5 +96,114 @@ En el video  se explica que se debe marcar y como usarlo.
 
 Gracias, Alguna duda o algo teneis el enlace del discord arriba!!
 
-SUBRIBETE Y DALE LIKE PARA  PODER  CRECEER gracias!!
+SUBRIBETE Y DALE LIKEPARA AYUDARME A CRECER 
+
+
+
+
+
+
+-----------------------------------------------
+
+
+
+
+NVIDIA 1000-4090 !!!!!
+
+
+
+Hi, I'm Afin and I've created this software "Optimizer" to perfectly optimize your computer, you can also download it on "HITHUB"
+
+
+Hos I have left some programs to optimize your computer instantly on NVIDIA cards.
+You have a video on youtube in case you have any questions and I leave you my DISCORD in case you have any questions about how to perform the optimization. ""DC NAME: afinfn "" or you can be assisted by support at ; https://discord.gg/hrfS75C5ue"
+
+-------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- --------------------------------------------
+NVIDIA CARDS (Nvidia ONLY) ------------------------
+
+"Nvidia Profile Inspector" to optimize FORTNITE-
+
+It is used to optimize FORNITE, remove the imput delay, increase FPS and improve the ping
+
+You must open the application as administrator and in the search engine you will have to search for "Fortnite" and look for an option that says:
+Texture Filtering - LOD Bias (DX) and it will be set by default "+0.0000", you must change it to "+1.0000" and apply changes
+
+---------------------- NEXT PROGRAM ---------------------
+
+"fast CPU"
+
+It is used to refresh the CPU or put it to the highest performance by setting the cores that are used custom.
+
+You must open the application as administrator, and inside, refresh to lower the CPU temperature, put the 4 bars to the maximum and activate the System power plan in "High Performance", APLY and close in the background
+
+
+---------------------- NEXT PROGRAM ---------------------
+
+
+"Memory reduction"
+
+Serves to free/clean memory from Physical Memory, Virtual Memory and System Cache
+
+You must open the application as administrator, and inside we clean the memory and clean the memories of the tabs several times.
+
+
+---------------------- NEXT PROGRAM ---------------------
+
+"Antimicro"
+
+It is used to reduce the latency of our peripherals, thus removing input lag, delay and reaction time.
+
+
+You will have to open the application as administrator, Options - settings - Profiles short in GENERAL to " 1 ", Yaza command polling to " 1 ms ",
+
+aplicais: start next to windows - auto load the last open profile - drop Profiles - Enable: Delay = minimum: 250ms and Rate: 5 time/s
+
+-----
+Mouse: Apply to "Disable improved pointer precision - smoothing = 1 - 0.01
+
+Update rate = 1ms
+
+Spring = :0
+
+apply OK and leave it in the background
+
+
+---------------------- NEXT PROGRAM ---------------------
+
+
+"FilterKeysSetter"
+
+It is used for the input lag, the delay and the reaction time to remove the "KEYBOARD"
+
+
+You must open the application as administrator, Flags = aplicais in "On" and in "Avaible"
+
+Settings = Ignore at: "0ms" - Repeat Delay "150ms" - Repeat Rate "10ms"
+
+Apply - Ok
+
+---------------------- NEXT PROGRAM ---------------------
+
+oalinst
+
+It is used to optimize the sound performance of all games and the system
+
+Just open as administrator I have inject
+
+
+-------------------------------------------------- -------------------------------
+
+
+More optimization about Nvidia and PC in the channel video = +GUIDE
+
+
+----------------USE THE AfinOptimizer PROGRAM----------------------------- --------------
+
+The video explains what to mark and how to use it.
+
+
+
+Thanks, any questions or something, you have the discord link above!!
+
+SUBSCRIBE AND LIKE TO BE ABLE TO GROW thank you!!
 
